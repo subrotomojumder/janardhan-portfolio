@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "5465465456",
+        "name": "Mobile Resell Shope",
+        "projectType": "Buy and sell second-hand mobiles. Here you can advertise and buy old mobiles for sale. This website has separate dashboard for user seller and admin. If desired, one can pay the price on the mobile purchased here",
+        "image": "https://waltonbd.com/image/cache/catalog/mobile/smart-phone/orbit-y50/orbit-y50-id-03-364x364.jpg",
+        "live": "https://mobile-resell-shope.web.app/",
+        "screenShort": [
+            "https://i.ibb.co/V9W8mRP/mobile1.png",
+            "https://i.ibb.co/qYX1QCX/moboile2.png",
+            "https://i.ibb.co/Sn6pfF9/mobile3.png"
+        ],
+        "technology": "ReactJS, React-router-dom, Firebase, ExpressJS, MongoDB, JWT, StripeJs, TailwindCSS, DaysiUI, React-hook-form, React-icons",
+        "server": "https://github.com/subrotomojumder/mobile-resell-server-12",
+        "client": "https://github.com/subrotomojumder/mobile-resell-client-12"
+    },
+    {
+        "_id": "5465465458",
+        "name": "Doctors Portals",
+        "projectType": "Daily patient appointment. Patients are online on this website There is an opportunity to take service. Any patient can take one service per day. You can make a booking for the service.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6W1mxQfcoZXMC7ohBb4BatfrS3CC9SA-LtA&usqp=CAU",
+        "screenShort": [
+            "https://i.ibb.co/BPPfCRh/doctors-portals1.png",
+            "https://i.ibb.co/28T1pF5/doctors-portals-1.png",
+            "https://i.ibb.co/0jfxJqq/doctors-portals21.png"
+        ],
+        "technology": "ReactJS, React-day-picker, React-router-dom, Firebase, ExpressJS, MongoDB, StripeJs, TailwindCSS, React-hook-form, React-hot-toast",
+        "live": "https://doctors-portal-2da71.web.app/",
+        "server": "https://github.com/subrotomojumder/doctors-portals-sever",
+        "client": "https://github.com/subrotomojumder/doctors-portal-client"
+    },
+    {
+        "_id": "5465465457",
+        "name": "PHoTo FesTival",
+        "projectType": "Service review system. Patients are online on this website There is an opportunity to take service. Any patient can take one service per day. You can make a booking for the service.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e9/bb/cc/sugandha-beach-cox-s.jpg?w=1200&h=1200&s=1",
+        "screenShort": [
+            "https://i.ibb.co/ScNJvn1/photo3.png",
+            "https://i.ibb.co/ZfdNWsJ/photo1.png",
+            "https://i.ibb.co/1vvSc8B/photo2.png"
+        ],
+        "technology": "ReactJS, React-router-dom, Firebase,React-photo-view, ExpressJS, MongoDB, TailwindCSS, DaysiUI,  React-hot-toast",
+        "live": "https://service-review-ff41b.web.app",
+        "server": "https://github.com/subrotomojumder/-PHoTo-FesTival-service-review11-server",
+        "client": "https://github.com/subrotomojumder/PHoTo-FesTival-service-review11-client"
+    }
+]

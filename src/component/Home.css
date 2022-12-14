@@ -1,0 +1,21 @@
+.my-name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(to right, hsl(19, 72%, 48%) 0, hsl(253, 73%, 44%) 10%, hsl(37, 33%, 83%) 20%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s infinite linear;
+  }
+  
+  @keyframes shine {
+    0% {
+      background-position: 0;
+    }
+    60% {
+      background-position: 600px;
+    }
+    100% {
+      background-position: 600px;
+    }
+  }
+
+  
